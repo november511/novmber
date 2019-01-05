@@ -1,0 +1,6 @@
+token=u-F3_daXKo_iTwQwdfxXxVCK7Ei2T6qb
+owner=289377454399684608
+prefix= N
+game= .November
+stayinchannel=true
+songinstatus=true 
